@@ -15,7 +15,7 @@
 - 🚀 Working on improving my **Web Development** skills
 - 💼 Open to **Internship & Placement Opportunities**
 - 👯 Looking to collaborate on **beginner-friendly projects**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **amalts5885@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into code!**
 
 ---
@@ -63,14 +63,11 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/amal-dev-45a267291" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:amalts5885@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/YOUR-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
