@@ -10,7 +10,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Computer Science Student**
-- 🌱 Currently learning **Data Structures & Algorithms in C**
 - 💻 Familiar with **Java, Python, C, and JavaScript**
 - 🚀 Working on improving my **Web Development** skills
 - 💼 Open to **Internship & Placement Opportunities**
